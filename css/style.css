@@ -1,0 +1,164 @@
+body {
+  margin: 0;
+}
+.w-100 {
+  width: 100%;
+}
+.w-65 {
+  width: 65%;
+}
+.w-10{
+    width: 10%;
+}
+ .pl-20{
+padding-right: 20px;
+ }
+.w-15{
+ width: 15%;
+}
+.w-25 {
+  width: 25%;
+}
+.text-center {
+  text-align: center;
+}
+.contenainer {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.clear-fix {
+  clear: both;
+}
+.float-left {
+  float: left;
+}
+
+* {
+  box-sizing: border-box;
+}
+.py-20 {
+  padding: 20px 0;
+}
+.content {
+  background-color:  #1a4a7e;
+  color: white;
+
+  padding: 20px;
+
+  border-radius: 20px;
+}
+.content p {
+  color: #a8d1f5;
+}
+.content a {
+  background-color: #2c5f94;
+  color: white;
+  margin: auto 5px;
+  padding: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 20px;
+}
+
+.card .contenainer {
+  background-color: #ffffff;
+  border-radius: 35px;
+  padding: 20px;
+}
+.card .contenainer .about {
+  margin-left: 20px;
+}
+.card .contenainer h2{
+color: #0f3d6e;
+
+}
+
+
+.card .contenainer .about span {
+  color:  #0f3d6e;
+}
+.card .contenainer .about a {
+  background-color: #0f3d6e;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+  
+}
+.card .contenainer img {
+  background-color:  #0f3d6e;
+  width: 100%;
+  border-radius: 50%;
+}
+.skills .contenainer{
+
+    background-color: #ffffff;
+    padding: 15px;
+   border-radius: 20px;
+}
+
+.skills .contenainer h2 {
+  color: #1a4a7e;
+}
+
+.skills .contenainer h3 {
+  color:  #0f3d6e;
+}
+
+.skills .contenainer .imet {
+    background-color: #ffffff;
+  padding: 15px;
+  border-radius: 15px;
+}
+.experience .contenainer{
+    padding: 15px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+.experience .contenainer img{
+width: 80%;
+border-radius: 15px;
+}
+.experience .contenainer h2{
+    color: #0f3d6e;
+}
+.experience .contenainer .modern{
+    padding: 20px;
+    background-color:#ffffff;
+    border-left: 4px solid #0f3d6e ;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    
+}
+
+.experience .contenainer .senior{
+    padding: 20px;
+    border-left: 4px solid #0f3d6e ;
+    border-radius: 8px;
+    
+}
+.links .contenainer{
+    background-color: #0f3d6e;
+    color: white;
+    border-radius: 15px;
+padding: 20px;
+}
+.links .contenainer a {
+  background-color: #2c5f94;
+  color: white;
+  margin: auto 5px;
+  padding: 4px;
+ 
+  border-radius: 20px;
+}
+.end .contenainer{
+     background-color: #271a33;
+     margin: 0 auto;
+     padding: 20px;
+     color: white;
+     border-radius: 20px;
+ }    
+.end .contenainer span{
+    background-color: #271a33;
+    color: #2c5f94;
+}
